@@ -57,7 +57,7 @@ Users should be able to:
 
 I learned to extend styles of other styled-components in order to reuse some of them.
 
-I used the ```js every()``` method for the filtering logic to check if every added filter is included in a collection that contains the relevant tags of each job listing.
+I used the ```every()``` method for the filtering logic to check if every added filter is included in a collection that contains the relevant tags of each job listing.
 
 ### Useful resources
 
